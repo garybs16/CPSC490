@@ -9,9 +9,9 @@
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
 | Samuel, Gary Bennet | @garybs16 | 〈e.g. backend, docs lead〉 | ✅ |
-| Bowen, Jake | @〈username〉 | 〈role〉 | |
+| Bowen, Jake | @JakeBowen2005 | 〈role〉 | |
 | Jaglam, Avni | @Avnijaglan19 | 〈role〉 | |
-| Acuna, Isaac | @〈username〉 | 〈role〉 | |
+| Acuna, Isaac | @1600isad | 〈role〉 | |
 
 **Contact person:** Gary Bennet Samuel — garysamuel@csu.fullerton.edu
 
