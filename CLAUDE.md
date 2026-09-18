@@ -1,8 +1,8 @@
 # Project context for AI assistants
 
-**Copy this file into your repository and edit the 〈brackets〉.** Every
-teammate's AI session then starts from the same facts, so you get consistent
-output instead of five people re-explaining the project five different ways.
+Every teammate's AI session starts from the same facts here, so you get
+consistent output instead of four people re-explaining the project four
+different ways.
 
 Claude Code reads `CLAUDE.md` automatically. `AGENTS.md` is the same idea as
 a cross-tool convention; GitHub Copilot reads
@@ -27,8 +27,8 @@ merely suggested; see `docs/aidlc/loop-engineering.md`.
 
 - **Course:** CPSC 490 Undergraduate Seminar, Fall 2026 (proposal + prototype
   semester; full implementation happens in CPSC 491).
-- **Team:** Group 〈N〉 〈name〉 — members in `README.md`.
-- **Project:** 〈one or two sentences a stranger understands〉
+- **Team:** Group 〈N〉 neuroprosthetic — members in `README.md`.
+- **Project:** Phenoscope — 〈one or two sentences a stranger understands〉
 - **Sponsor:** 〈RTX-3 / EL-1 / SNX-n / independent〉
 - **Source of truth:** `proposal/proposal.md`. Specs in `docs/specs/`,
   designs in `docs/design/`, proof-of-concept code in `prototype/`.

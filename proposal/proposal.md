@@ -1,10 +1,11 @@
-# Project Proposal — 〈Project Title〉
+# Project Proposal — Phenoscope
 
 **Department of Computer Science**
 **CPSC 490 Undergraduate Seminar in Computer Science — Proposal for Capstone Project**
 
-**Group 〈N〉 — 〈Group Name〉** · Sponsor: 〈RTX-3 / EL-1 / SNX-n / independent〉
-Authors: 〈Last, First (GitHub username)〉, 〈…〉
+**Group 〈N〉 — neuroprosthetic** · Sponsor: 〈RTX-3 / EL-1 / SNX-n / independent〉
+Authors: Samuel, Gary Bennet (garybs16); Bowen, Jake (〈username〉);
+Jaglam, Avni (〈username〉); Acuna, Isaac (〈username〉)
 Date: 〈YYYY-MM-DD〉
 
 > **This file is the proposal document, not a README.** Its section numbers,

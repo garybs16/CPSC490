@@ -1,6 +1,6 @@
-# CPSC 490 — Group 〈N〉 〈Group Name〉
+# CPSC 490 — Group 〈N〉 neuroprosthetic
 
-**Project title:** 〈Title〉
+**Project title:** Phenoscope
 **Sponsor:** 〈RTX-3 / EL-1 / SNX-2 / independent〉
 **Section:** 〈01 (Tue) | 05 (Thu)〉
 
@@ -8,12 +8,12 @@
 
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
-| 〈Last, First〉 | @〈username〉 | 〈e.g. backend, docs lead〉 | ✅ |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
+| Samuel, Gary Bennet | @garybs16 | 〈e.g. backend, docs lead〉 | ✅ |
+| Bowen, Jake | @〈username〉 | 〈role〉 | |
+| Jaglam, Avni | @〈username〉 | 〈role〉 | |
+| Acuna, Isaac | @〈username〉 | 〈role〉 | |
 
-**Contact person:** 〈Name〉 — 〈email〉
+**Contact person:** Gary Bennet Samuel — garysamuel@csu.fullerton.edu
 
 ## Links
 
