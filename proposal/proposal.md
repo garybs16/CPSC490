@@ -5,7 +5,7 @@
 
 **Group 〈N〉 — neuroprosthetic** · Sponsor: 〈RTX-3 / EL-1 / SNX-n / independent〉
 Authors: Samuel, Gary Bennet (garybs16); Bowen, Jake (〈username〉);
-Jaglam, Avni (〈username〉); Acuna, Isaac (〈username〉)
+Jaglam, Avni (Avnijaglan19); Acuna, Isaac (〈username〉)
 Date: 〈YYYY-MM-DD〉
 
 > **This file is the proposal document, not a README.** Its section numbers,

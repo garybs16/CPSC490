@@ -10,7 +10,7 @@
 |---|---|---|---|
 | Samuel, Gary Bennet | @garybs16 | 〈e.g. backend, docs lead〉 | ✅ |
 | Bowen, Jake | @〈username〉 | 〈role〉 | |
-| Jaglam, Avni | @〈username〉 | 〈role〉 | |
+| Jaglam, Avni | @Avnijaglan19 | 〈role〉 | |
 | Acuna, Isaac | @〈username〉 | 〈role〉 | |
 
 **Contact person:** Gary Bennet Samuel — garysamuel@csu.fullerton.edu
